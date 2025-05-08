@@ -6,8 +6,6 @@ This project provides a robust, flexible wrapper around the native `fetch` funct
 
 ## 📦 Setup
 
-## 📦 Setup
-
 ```bash
 # Clone the repo
 git clone https://github.com/Fadi-N/api-request-handler.git
