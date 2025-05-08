@@ -6,18 +6,14 @@ This project provides a robust, flexible wrapper around the native `fetch` funct
 
 ## 📦 Setup
 
+## 📦 Setup
+
 ```bash
-# Clone the repo (or initialize your own project)
-npm init -y
+# Clone the repo
+git clone https://github.com/Fadi-N/api-request-handler.git
 
 # Install required dev dependencies
-npm install -D typescript ts-node
-```
-
-Create a basic `tsconfig.json` if needed:
-
-```bash
-npx tsc --init
+npm install
 ```
 
 ---
